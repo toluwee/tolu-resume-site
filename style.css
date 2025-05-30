@@ -19,15 +19,6 @@ header {
   text-align: center;
 }
 
-header a {
-  color: #ffffff;
-  text-decoration: underline;
-}
-
-header a:hover {
-  color: #cbd5e1;
-}
-
 header h1 {
   margin: 0;
   font-size: 2rem;
@@ -67,3 +58,14 @@ footer {
   color: #555;
   font-size: 0.9rem;
 }
+
+
+header a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+header a:hover {
+  color: #cbd5e1;
+}
+
